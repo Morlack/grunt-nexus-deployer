@@ -1,5 +1,7 @@
 # grunt-nexus-deployer
 
+This is a modified version of the main repository, to fix the status code issue. 
+
 > Nexus Artifact Deployer from grunt
 
 [![Build Status](https://travis-ci.org/skhatri/grunt-nexus-deployer.png)](https://travis-ci.org/skhatri/grunt-nexus-deployer) 
